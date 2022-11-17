@@ -1,0 +1,622 @@
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/creative-agency-free/content.kds were successfully downloaded!
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: init
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "Primary - Old" (nav_menu)
+
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[INFO] Imported "bg3.jpg" (Media)
+
+
+------
+[INFO] Imported "team1.jpg" (Media)
+
+
+------
+[INFO] Imported "team2.jpg" (Media)
+
+
+------
+[INFO] Imported "team3.jpg" (Media)
+
+
+------
+[INFO] Imported "team4.jpg" (Media)
+
+
+------
+[INFO] Imported "team5.jpg" (Media)
+
+
+------
+[INFO] Imported "kubio-featured-image.jpg" (Media)
+
+
+------
+[INFO] Imported "team6.jpg" (Media)
+
+
+------
+[INFO] Imported "demo-video.mp4" (Media)
+
+
+------
+[INFO] Imported "noah-buscher-unsplash" (Media)
+
+
+------
+[INFO] Imported "bg-section-small" (Media)
+
+
+------
+[INFO] Imported "alex-_ZfLlKxilpw-unsplash" (Media)
+
+
+------
+[INFO] Imported "gradienta-unsplash" (Media)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "dstudio-bcn-unsplash" (Media)
+
+
+------
+[INFO] Imported "mae-mu-4-unsplash" (Media)
+
+
+------
+[INFO] Imported "adomas-aleno-unsplash" (Media)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Media)
+
+
+------
+[INFO] Imported "blog1" (Media)
+
+
+------
+[INFO] Imported "blog2" (Media)
+
+
+------
+[INFO] Imported "blog3" (Media)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Sample Page" (Page)
+
+
+------
+[INFO] Imported "Privacy Policy" (Page)
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "Home" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Project page" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Services" (Page)
+
+
+------
+[INFO] Imported "Team" (Page)
+
+
+------
+[INFO] Imported "Home" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "logo-dark" (Media)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "404" (Template)
+
+
+------
+[INFO] Imported "Archive Product" (Template)
+
+
+------
+[INFO] Imported "Front Page" (Template)
+
+
+------
+[INFO] Imported "Full Width" (Template)
+
+
+------
+[INFO] Imported "Index" (Template)
+
+
+------
+[INFO] Imported "Page" (Template)
+
+
+------
+[INFO] Imported "Search" (Template)
+
+
+------
+[INFO] Imported "Single Product" (Template)
+
+
+------
+[INFO] Imported "Single Post" (Template)
+
+
+------
+[INFO] Imported "Footer" (Template Part)
+
+
+------
+[INFO] Imported "Front Header" (Template Part)
+
+
+------
+[INFO] Imported "Custom Styles" (Global Styles)
+
+
+------
+[INFO] Imported "Custom Styles" (Global Styles)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "Project page Template" (Template)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Template)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Template)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Post)
+
+
+------
+[INFO] Imported "Header" (Template Part)
+
+
+------
+[INFO] Imported "Sidebar" (Template Part)
+
+
+------
+[INFO] Imported "Contact form 1" (Contact Form)
+
+
+------
+[INFO] Imported "Project page Template-header" (Template Part)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Page Sidebar" (Template Part)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term `elevate-wp` in `wp_theme`
+
+
+------
+[WARNING] Could not find the author for "bg3.jpg" (post #64)
+
+
+------
+[WARNING] Could not find the author for "team1.jpg" (post #65)
+
+
+------
+[WARNING] Could not find the author for "team2.jpg" (post #66)
+
+
+------
+[WARNING] Could not find the author for "team3.jpg" (post #67)
+
+
+------
+[WARNING] Could not find the author for "team4.jpg" (post #68)
+
+
+------
+[WARNING] Could not find the author for "team5.jpg" (post #69)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #70)
+
+
+------
+[WARNING] Could not find the author for "team6.jpg" (post #71)
+
+
+------
+[WARNING] Could not find the author for "demo-video.mp4" (post #72)
+
+
+------
+[WARNING] Could not find the author for "noah-buscher-unsplash.jpg" (post #73)
+
+
+------
+[WARNING] Could not find the author for "bg-section-small-1.jpg" (post #74)
+
+
+------
+[WARNING] Could not find the author for "alex-_ZfLlKxilpw-unsplash-scaled-e1664866872359.jpeg" (post #75)
+
+
+------
+[WARNING] Could not find the author for "gradienta-unsplash.jpg" (post #76)
+
+
+------
+[WARNING] Could not find the author for "dstudio-bcn-unsplash.jpg" (post #77)
+
+
+------
+[WARNING] Could not find the author for "mae-mu-4-unsplash.png" (post #78)
+
+
+------
+[WARNING] Could not find the author for "adomas-aleno-unsplash.jpg" (post #79)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #80)
+
+
+------
+[WARNING] Could not find the author for "blog1.jpg" (post #81)
+
+
+------
+[WARNING] Could not find the author for "blog2.jpg" (post #82)
+
+
+------
+[WARNING] Could not find the author for "blog3.jpg" (post #83)
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #84)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #86)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #87)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #89)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #91)
+
+
+------
+[WARNING] Could not find the author for "" (post #92)
+
+
+------
+[WARNING] Could not find the menu object for "" (post #92)
+
+
+------
+[WARNING] Could not find the author for "" (post #93)
+
+
+------
+[WARNING] Could not find the author for "" (post #94)
+
+
+------
+[WARNING] Could not find the author for "Project page" (post #124)
+
+
+------
+[WARNING] Could not find the menu object for "Project page" (post #124)
+
+
+------
+[WARNING] Could not find the author for "" (post #158)
+
+
+------
+[WARNING] Could not find the author for "" (post #159)
+
+
+------
+[WARNING] Could not find the author for "Services" (post #169)
+
+
+------
+[WARNING] Could not find the author for "Team" (post #172)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #450)
+
+
+------
+[WARNING] Could not find the author for "" (post #451)
+
+
+------
+[WARNING] Could not find the author for "" (post #452)
+
+
+------
+[WARNING] Could not find the author for "" (post #453)
+
+
+------
+[WARNING] Could not find the author for "" (post #454)
+
+
+------
+[WARNING] Could not find the author for "logo-dark.png" (post #455)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #456)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #457)
+
+
+------
+[WARNING] Could not find the author for "404" (post #458)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #459)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #460)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #461)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #462)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #463)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #464)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #465)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #466)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #467)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #468)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #469)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #470)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #174)
+
+
+------
+[WARNING] Could not find the author for "Project page Template" (post #312)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #421)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #422)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #562)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #563)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #564)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #208)
+
+
+------
+[WARNING] Could not find the author for "Project page Template-header" (post #311)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #423)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 575 to new ID 82 for post ID 456
+
+
+------
+[INFO] Remapping featured image ID 576 to new ID 83 for post ID 457
+
+
+------
+[INFO] Remapping featured image ID 574 to new ID 81 for post ID 562
+
